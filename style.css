@@ -1,0 +1,12 @@
+._btn{
+    background-image: linear-gradient(hsl(176, 68%, 64%),hsl(198, 60%, 50%));
+    border-style: none;
+    padding: 10px 50px 10px 50px;
+    border-radius: 20px;
+}
+._btn1{
+    background-image: linear-gradient(hsl(176, 68%, 64%),hsl(198, 60%, 50%));
+    border-style: none;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+}
